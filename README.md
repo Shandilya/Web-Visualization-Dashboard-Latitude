@@ -4,7 +4,7 @@ Web Visualization Dashboard (Latitude) - HTML/CSS Assignment
 
 
 
-# Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
+# Assignment - Web Visualization Dashboard (Latitude)
 
 ## Background
 
